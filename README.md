@@ -1,6 +1,6 @@
 # Template Sensor of Unavailable Sensors
 
-Split your configuration file?, then us this (as shown in my tutorial):
+Split your configuration file?, then use this (as shown in my tutorial):
 ```yaml
 - platform: template
   sensors:
