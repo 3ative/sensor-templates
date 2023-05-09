@@ -14,7 +14,7 @@ Split your configuration file?, then use this (as shown in my tutorial):
         {% endif %}
 ```
 
-Otherwise, add this to you configuration.yaml:
+Otherwise, add this to your configuration.yaml:
 ```yaml
 sensor:
   - platform: template
